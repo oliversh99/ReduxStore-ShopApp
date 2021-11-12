@@ -1,5 +1,17 @@
 # ReduxStore-ShopApp
 
+## Screenshot for the application
+
+![Screenshot]()
+
+
+
+ # Deploy links
+this the linke to app to follow 
+- Deployed To Heroku URL:
+
+- Github URL:
+
 ## User Story
 
 ```md
@@ -38,3 +50,9 @@ The following animation shows how the user can select a category, choose a produ
 Finally, the user can check out by going to their shopping cart, as shown in the following animation:
 
 ![The user checks out by going to their shopping cart.](./Assets/22-state-homework-demo-03.gif)
+
+
+
+## Questions
+If you have any questions about the repo, open an issue or contact me directly at olivcode999@gmail.com. You can find more of my work at https://github.com/oliversh99
+Contact me 

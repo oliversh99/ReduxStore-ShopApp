@@ -2,15 +2,15 @@
 
 ## Screenshot for the application
 
-![Screenshot]()
+![Screenshot](./Assets/screenshot/shopshop.png)
 
 
 
- # Deploy links
+ ## Deploy links
 this the linke to app to follow 
 - Deployed To Heroku URL:
 
-- Github URL:
+- Github URL:https://github.com/oliversh99/ReduxStore-ShopApp
 
 ## User Story
 

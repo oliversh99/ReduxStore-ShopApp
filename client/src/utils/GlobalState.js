@@ -1,6 +1,8 @@
 import React, { createContext, useContext } from "react";
 import { useProductReducer } from './reducers'
-
+// 
+import { Provider, useStore} from 'react-redux'
+import { createStore } from 'redux';
 const StoreContext = createContext();
 const { Provider } = StoreContext;
 

@@ -17,6 +17,9 @@ import Nav from './components/Nav';
 import { StoreProvider } from './utils/GlobalState';
 import Success from './pages/Success';
 import OrderHistory from './pages/OrderHistory';
+// i added here librrary and code line import stoer
+import { Provider } from 'react-redux';
+import store from '../src/utils/store';
 
 const httpLink = createHttpLink({
   uri: '/graphql',

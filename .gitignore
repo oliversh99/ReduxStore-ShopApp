@@ -1,1 +1,4 @@
 node_modules
+.env
+
+mongodb+srv://redux-store:shopshop12@cluster0.69eek.mongodb.net/redux-store?retryWrites=true&w=majority

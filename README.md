@@ -8,7 +8,7 @@
 
  ## Deploy links
 this the linke to app to follow 
-- Deployed To Heroku URL:
+- Deployed To Heroku URL:https://reduxeshop.herokuapp.com/
 
 - Github URL:https://github.com/oliversh99/ReduxStore-ShopApp
 
